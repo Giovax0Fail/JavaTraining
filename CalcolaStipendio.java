@@ -14,6 +14,7 @@ public class CalcolaStipendio {
 
         dipendente2.prendiMalattia(5);
         dipendente2.paga(3);
+
         dipendente2.stampaMalattia();
 
     }
